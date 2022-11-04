@@ -1,34 +1,34 @@
 {
   "data": [
     {
-      fileName: "abc.jpg",
-      currentState: "Approved",
-      approvedBy: "John",
-      publicUrl: "abc.com"
+      "fileName": "abc.jpg",
+      "currentState": "Approved",
+      "approvedBy": "John",
+      "publicUrl": "abc.com"
     },
     {
-        fileName: "abcd.jpg",
-        currentState: "Approved",
-        approvedBy: "Mike",
-        publicUrl: "abcd.com"
+        "fileName": "abcd.jpg",
+        "currentState": "Approved",
+        "approvedBy": "Mike",
+        "publicUrl": "abcd.com"
       },
       {
-        fileName: "qwe.jpg",
-        currentState: "Pending Approval",
-        approvedBy: null,
-        publicUrl: null
+        "fileName": "qwe.jpg",
+        "currentState": "Pending Approval",
+        "approvedBy": null,
+        "publicUrl": null
       },
       {
-        fileName: "zxc.jpg",
-        currentState: "Pending Approval",
-        approvedBy: null,
-        publicUrl: null
+        "fileName": "zxc.jpg",
+        "currentState": "Pending Approval",
+        "approvedBy": null,
+        "publicUrl": null
       },
       {
-        fileName: "tyu.jpg",
-        currentState: "Pending Approval",
-        approvedBy: null,
-        publicUrl: null
+        "fileName": "tyu.jpg",
+        "currentState": "Pending Approval",
+        "approvedBy": null,
+        "publicUrl": null
       }
   ],
   "profile": {
